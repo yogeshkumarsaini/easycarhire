@@ -1,0 +1,17 @@
+--------Username and Passwords for Admin----
+
+Admin Username:   admin
+Password:         Admin@123
+
+
+
+--------Username and Passwords for User----
+
+User1:     yogeshsaini@gmail.com
+Password:  12345678
+
+User2:     sahil@gmail.com
+Password:  12345678
+
+User1:     mansi@gmail.com
+Password:  12345678
